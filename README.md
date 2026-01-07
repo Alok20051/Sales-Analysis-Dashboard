@@ -7,10 +7,10 @@ The dashboard helps in understanding **sales trends, performance metrics, and bu
 ---
 
 ## 📂 Files Included
-- **Sales Analysis Dashboard.xlsx** → Main Excel file containing data, pivots, and dashboard
+- **Sales Analysis Dashboard.xlsx** → Main Excel file containing dashboard
 - **README.md** → Project documentation
-- **screenshots/** → Dashboard preview images (recommended)
-- **data/** → Source dataset (optional)
+- **screenshots/** → Dashboard preview images
+- **data/** → Source dataset
 
 ---
 
